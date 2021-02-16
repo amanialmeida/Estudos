@@ -40,7 +40,7 @@ No diretório do arquivo, executar o arquivo.
 Ex.: py <nome_do_arquivo>
 
 ## Projetos
-* Operadores aritméticos - arquivo oper_aritmeticos
+* Operadores aritméticos 
 
 
 
