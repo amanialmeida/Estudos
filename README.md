@@ -12,7 +12,7 @@ Para entrar no prompt de comados, através do cmd.
 * dir - verificar diretório
 * cd - change directory
 * mkdir ou md - cirar diretório
-* rmdir ou rd - excluir diretprios
+* rmdir ou rd - excluir diretórios
 * exit - sair 
 * cd .. - volta para uma pasta acima
 * copy - copiar para outra pasta
