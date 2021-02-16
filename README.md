@@ -1,9 +1,13 @@
-# Estudos de Python
+# Python
 
-Python é uma liguagem de progragamação de alto nível, interpretada, descript, imperatica ( seguência de comando), multiplataforma, orientada o objeto, tipagem dinâmica e forte.
+Python é uma liguagem de progragamação de alto nível, interpretada, de script, imperativa ( seguência de comando), multiplataforma, orientada o objeto, tipagem dinâmica e forte.
 
 Alguns arquivos serão adicionados para estudo.
 
-## Comands básicso do Prompt de Comando - Windows
+## Comands básicos do Prompt de Comando - Windows
+
+* dir - verificar diretório
+* ch - change directory
+*
 
 
