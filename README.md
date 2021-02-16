@@ -13,7 +13,7 @@ CMD  - Inicia uma nova instância do interpretador de comando do Windows.
 
 * dir - verificar diretório
 * cd - change directory
-* mkdir ou md - cirar diretório
+* mkdir ou md - criar diretório
 * rmdir ou rd - excluir diretórios
 * exit - sair 
 * cd .. - volta para uma pasta acima
