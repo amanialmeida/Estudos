@@ -39,7 +39,7 @@ Type "help", "copyright", "credits" or "license" for more information. <br />
 No diretório do arquivo, executar o arquivo.
 Ex.: py <nome_do_arquivo>
 
-##Exemplos
+## Projetos
 * Operadores aritméticos - arquivo oper_aritmeticos
 
 
