@@ -32,6 +32,10 @@ Comandos:
 No diretório do arquivo, executar o arquivo.
 Ex.: py <nome_do_arquivo>
 
+##Exemplos
+* Operadores aritméticos - arquivo oper_aritmeticos
+
+
 
 
 
