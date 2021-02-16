@@ -2,7 +2,7 @@
 
 Python é uma liguagem de progragamação de alto nível, interpretada, de script, imperativa ( seguência de comando), multiplataforma, orientada o objeto, tipagem dinâmica e forte.
 
-Maiores informações: [Documentação Python](https://www.python.org/)
+Maiores informações: [Documentação Python](https://www.python.org/).
 
 Alguns arquivos serão adicionados para estudo.
 
@@ -12,8 +12,10 @@ Alguns arquivos serão adicionados para estudo.
 * cd - change directory
 * mkdir ou md - cirar diretório
 * rmdir ou rd - excluir diretprios
-* exit - siar 
+* exit - sair 
 * cd .. - volta para uma pasta acima
+* copy - copiar para outra pasta
+* move - mover uma arquivo para outro pasta
 
 
 
