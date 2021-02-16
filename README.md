@@ -46,7 +46,7 @@ No diretório do arquivo, executar o arquivo.
 Ex.: py <nome_do_arquivo>
 
 ## Projetos
-* Operadores aritméticos 
+* [Operadores aritméticos ](https://github.com/amanialmeida/Estudos-Python/blob/main/oper_aritmeticos.py)
 
 
 
