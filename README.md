@@ -7,7 +7,9 @@ Maiores informações: [Documentação Python](https://www.python.org/).
 Alguns arquivos serão adicionados para estudo.
 
 ## Comandos básicos do Prompt de Comandos - Windows
-Para entrar no prompt de comados, através do cmd.
+Para entrar no prompt de comandos, através do comando cmd.
+
+CMD  - Inicia uma nova instância do interpretador de comando do Windows.
 
 * dir - verificar diretório
 * cd - change directory
@@ -17,6 +19,8 @@ Para entrar no prompt de comados, através do cmd.
 * cd .. - volta para uma pasta acima
 * copy - copiar para outra pasta
 * move - mover uma arquivo para outro pasta.
+
+Miores informações:[Prompt de Comandos](https://sites.google.com/site/mhbbcmd/home)
 
 
 ## Instalação
