@@ -20,7 +20,7 @@ Para entrar no prompt de comados, através do cmd.
 
 
 ## Instalação
-(https://www.python.org/)
+https://www.python.org/
 
 ## Verificar instalação
 
