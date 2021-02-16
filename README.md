@@ -7,6 +7,7 @@ Maiores informações: [Documentação Python](https://www.python.org/).
 Alguns arquivos serão adicionados para estudo.
 
 ## Comandos básicos do Prompt de Comandos - Windows
+Para entrar no prompt de comados, através do cmd.
 
 * dir - verificar diretório
 * cd - change directory
