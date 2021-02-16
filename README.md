@@ -25,7 +25,13 @@ Para entrar no prompt de comados, através do cmd.
 ## Verificar instalação
 
 Comandos: 
-* py - verifica se o Python foi instalado corretamente
+* py - verifica no Prompt de Comandos se o Python foi instalado corretamente.
+
+Por exemplo:
+
+Python 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license" for more information.
+>>>
 
 ## Criar e Executar um arquivo
  O arquivo pode ser criado no Bloco de Notas e salvo com a extensão .py
