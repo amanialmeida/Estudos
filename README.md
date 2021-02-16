@@ -16,10 +16,10 @@ Para entrar no prompt de comados, através do cmd.
 * exit - sair 
 * cd .. - volta para uma pasta acima
 * copy - copiar para outra pasta
-* move - mover uma arquivo para outro pasta
+* move - mover uma arquivo para outro pasta.
 
 
-##Instalação
+## Instalação
 (https://www.python.org/)
 
 ## Verificar instalação
