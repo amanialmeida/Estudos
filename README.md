@@ -21,7 +21,7 @@ CMD  - Inicia uma nova instância do interpretador de comando do Windows.
 * move - mover uma arquivo para outro pasta.
 
 Maiores informações:[Prompt de Comandos](https://sites.google.com/site/mhbbcmd/home); <br />
-                   [Prompt de Comando - Microsoft](https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)
+                   [Prompt de Comandos - Microsoft](https://docs.microsoft.com/pt-br/windows-server/administration/windows-commands/cmd)
 
 
 ## Instalação
