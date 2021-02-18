@@ -1,7 +1,7 @@
 # Operadores atitméticos em Python
 
 '''
-+  -->  soma
++  --> soma
 - --> subtração
 * --> multiplicação
 / --> divisão
