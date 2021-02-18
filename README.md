@@ -48,6 +48,8 @@ Ex.: py <nome_do_arquivo>
 ## Projetos
 * [Operadores aritméticos ](https://github.com/amanialmeida/Estudos-Python/blob/main/oper_aritmeticos.py)
 
+## Lista de Exercícios
+
 
 
 
