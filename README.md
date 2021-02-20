@@ -1,6 +1,7 @@
 
  <!--img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" width=200 height=120 -->
- <img src="https://www.python.org/static/img/python-logo.png">
+ <!--img src="https://www.python.org/static/img/python-logo.png"-->
+ ![](https://www.python.org/static/img/python-logo.png)
 
 
 # Python
