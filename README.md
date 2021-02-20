@@ -1,5 +1,5 @@
 
-<img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" width=300 height=120>
+<img src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-2.png" width=200 height=80>
 # Python
 
 Python é uma liguagem de progragamação de alto nível, interpretada, de script, imperativa ( seguência de comando), multiplataforma, orientada o objeto, tipagem dinâmica e forte.
