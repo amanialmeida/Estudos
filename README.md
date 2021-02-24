@@ -53,7 +53,7 @@ Ex.: py <nome_do_arquivo>
 
 ## Lista de Exercícios
 
-![ Lista](https://www.ime.usp.br/~macmulti/exercicios/)
+<https://www.ime.usp.br/~macmulti/exercicios/>
 
 
 
